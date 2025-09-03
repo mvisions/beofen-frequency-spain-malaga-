@@ -1,5 +1,7 @@
 🇪🇸 Estos csv son para el programa chirp , listados csv para beofeng walkies talkies , si tiene alguna duda revise este manual :
+
 🛠️ Requisitos previos
+
 ✅ CHIRP instalado en tu ordenador (Windows, Mac o Linux)
 
 ✅ Cable de programación compatible con tu walkie (USB a conector de radio)
@@ -44,7 +46,9 @@ Puedes editar directamente en CHIRP antes de subir al walkie.
 ###########################################################################################
 
 🇺🇸 These CSV files are for the CHIRP program — CSV channel lists for Baofeng walkie-talkies. If you have any questions, please refer to this manual:
+
 🛠️ Prerequisites
+
 ✅ CHIRP installed on your computer (Windows, Mac, or Linux)
 
 ✅ Compatible programming cable (USB to radio connector)
